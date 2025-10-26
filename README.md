@@ -27,3 +27,10 @@ It compares performance across **Linear Regression**, **Random Forest**, and **X
 ---
 
 ## 📂 Project Structure
+Machine-Learning/
+│
+├── VideoGame.ipynb # Jupyter notebook with code
+├── requirements.txt # List of dependencies
+├── README.md # Project documentation
+└── data/
+└── vgsales.csv # Dataset (from Kaggle)
